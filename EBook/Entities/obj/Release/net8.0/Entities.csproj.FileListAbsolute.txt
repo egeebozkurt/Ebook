@@ -1,0 +1,14 @@
+C:\Users\Yigit\source\repos\EBook\Entities\bin\Release\net8.0\Entities.deps.json
+C:\Users\Yigit\source\repos\EBook\Entities\bin\Release\net8.0\Entities.runtimeconfig.json
+C:\Users\Yigit\source\repos\EBook\Entities\bin\Release\net8.0\Entities.dll
+C:\Users\Yigit\source\repos\EBook\Entities\bin\Release\net8.0\Entities.pdb
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\Entities.dll
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\refint\Entities.dll
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\Entities.pdb
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Yigit\source\repos\EBook\Entities\obj\Release\net8.0\ref\Entities.dll
